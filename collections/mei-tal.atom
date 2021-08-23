@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/mei-tal.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-05T07:58:17-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4490149101635</id>
+    <published>2020-06-05T07:58:17-04:00</published>
+    <updated>2020-06-05T07:58:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/mei-tal-turkish-cotton-bath-mat-2-pieces"/>
+    <title>Mei-Tal Turkish Cotton Bath Mat - 2 Pieces</title>
+    <s:type>Bath Mat</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_1b65a549-c4c0-45c8-82b1-4e4ab8287d83.jpg?v=1613245022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Mat<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">The bright optical colors will bring class and elegance to any room. Beautifully designed and woven in our jacquard Hardwick style, our towels will add a touch of class to any room!  Made with 100% high quality Turkish Cotton our bath mats can be washed reused several times! Our towels are also doubled stitched to prevent fraying and promote longevity and durability.  Made with no chemical processing, making it safe for babies, children, and all guests. All our towels are manufactured to Oeko-Tex and ISO 9001 certification standards.</p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Mei-Tal</span>
+</li>
+<li>
+<strong>TYPE: </strong>Bath Mat</li>
+<li>
+<strong>SIZE(S):</strong><span> 20" x 32"</span>
+</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> 2</span>
+</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 85</span>0 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mei-Tal</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16556</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Pink</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16555</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Ivory</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16554</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Green</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16553</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16552</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16524</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Beige</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16549</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Aqua</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16548</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16550</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Light Brown</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16525</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4490149101635</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16551</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789276356651</id>
+    <published>2019-05-13T14:36:02-04:00</published>
+    <updated>2019-05-13T14:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/mei-tal-turkish-cotton-towel-set-of-6"/>
+    <title>Mei-Tal Turkish Cotton Jacquard Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_ebc86695-90a2-4c22-b0a5-7cb5182b3666.jpg?v=1613244981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Enhance your bathing experience with our lightweight, soft Mei-Tal Jacquard Towel Set of 6. Stripe textured body with sculpted star-like pattern to diversify an collection on your shelf! Quick dry design with 2 ply-construction. Made with 100% natural, organic, Turkish cotton from Turkey. This item is machine wash friendly and quick-drying. Turkish cotton provides our towels with extra soft texture making our fabrics super absorbent and robust for any daily use around the house.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Mei-Tal</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 27" x 54", 16" x 27", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module module-3" cel_widget_id="aplus-module-3">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-floatnone">
+<div class="apm-sidemodule apm-spacing">
+<div class="apm-sidemodule-textleft"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mei-Tal</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>White</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO161086</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Ivory</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16566</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Beige</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16840</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Pink</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16843</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Terracotta</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16562</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Aqua</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16839</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Blue</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16560</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Caramel</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16842</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16561</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Gray</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16841</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Green</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16565</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Powdered Peach</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16568</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Red Wine</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16558</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789276356651</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16563</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

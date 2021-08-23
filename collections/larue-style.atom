@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/larue-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2019-05-13T14:21:20-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789253976107</id>
+    <published>2019-05-13T14:21:20-04:00</published>
+    <updated>2019-05-13T14:21:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/larue-turkish-cotton-towel-set-of-6"/>
+    <title>Larue Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_e5cb15ff-ccf6-4cd9-ba80-0fcafa523793.jpg?v=1613244979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span>Turkish cotton provides our towels with extra soft texture making our fabrics super absorbent and robust for any daily use around the house. Our luxurious towels are Machine Washable. Use warm water to washcloths to avoid color bleeding. Our sheets will become softer right after the first wash! </span>We use premium combed cotton helps us to produce energy-efficient and lightweight sheets that help its natural fibers with the highest absorbency without taking a long time to dry.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Larue</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 30" x 54", 16" x 27", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths<br>
+</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module 3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-3p-fixed-width">
+<h3 class="a-spacing-mini"></h3>
+</div>
+</div>
+<div class="celwidget aplus-module module-3" cel_widget_id="aplus-module-3">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-floatnone">
+<div class="apm-sidemodule apm-spacing">
+<div class="apm-sidemodule-textleft"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Larue</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>White</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO16576</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Platinum</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO16574</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Stone</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO16577</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Gray</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO16571</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Sea Grass</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO16575</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Pale Dogwood</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO17101</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789253976107</id>
+      <title>Tuffet</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO17100</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/chloe-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-14T10:55:47-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496573923395</id>
+    <published>2020-06-14T10:55:47-04:00</published>
+    <updated>2020-06-14T10:55:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/chloe-turkish-cotton-towel-set-of-12"/>
+    <title>Chloe Turkish Cotton Towel Set of 12</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Towels Beyond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ChloeTowelSet.jpg?v=1613245067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Towels Beyond<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Features a beautiful classic dobby design. Edges are double stitched to prevent fraying and promote longevity and durability. All materials are made with no chemical processing or pesticides. All our products have passed Oeko-Tex and ISO 9001 Certification. We only use high quality combed cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals or weight to any of our towels. As always, our towels are also VAT dyed for bright optical colors.</p>
+<ul>
+<li>
+<strong>STYLE: </strong>Chloe</li>
+<li>
+<strong>TYPE: </strong>Towel Set<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>27" x 54", 16" x 28", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>12</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>620 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>THIS SET INCLUDES: </strong>3 Bath Towels, 3 Hand Towels &amp; 6 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chloe</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496573923395</id>
+      <title>White</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>PRO161162</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496573923395</id>
+      <title>Beige</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>PRO161158</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496573923395</id>
+      <title>Gray</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>PRO161160</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496573923395</id>
+      <title>Sea Foam Blue</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>PRO161161</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

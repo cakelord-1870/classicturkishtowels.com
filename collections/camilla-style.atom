@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/camilla-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-10T11:47:29-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4493589577795</id>
+    <published>2020-06-10T11:47:29-04:00</published>
+    <updated>2020-06-10T11:47:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/camilla-turkish-cotton-washcloths-6-pieces"/>
+    <title>Camilla Turkish Cotton Washcloths - 6 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Towels Beyond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/DSC_0473_edited_6pcs.jpg?v=1613245049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Towels Beyond<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Floral embroidered accents give these Camilla Embroidered Washcloths a nature-inspired decorative touch that will bring a fresh and fun look to any decor. These cozy terry washcloths are machine washable and are made of cotton for softness. These Camilla Embroidered Washcloths add a fresh look to your bathroom decor with a floral theme. Made from plush and soft Turkish terry cotton.</p>
+<ul>
+<li>
+<strong>STYLE: </strong>Camilla</li>
+<li>
+<strong>TYPE: </strong>Washcloths<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>12" x 12:</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Camilla</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493589577795</id>
+      <title>Brown</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>PRO16304</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

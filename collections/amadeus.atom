@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/amadeus.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-04-12T08:39:00-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4428516196419</id>
+    <published>2020-04-12T08:39:00-04:00</published>
+    <updated>2020-04-12T08:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-washcloths-12-pieces"/>
+    <title>Amadeus Luxury Turkish Cotton Soft Washcloths - 12 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16051_1.jpg?v=1618407752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">The Amadeus Turkish Towel Collection features a unique and elegant dobby design that is sure to impress. Luxurious full terry washcloths towels that are rated at 640 GSM, to ensure maximum absorbency, without sacrificing any of the styles. Genuine Turkish cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals to make the towels artificial. Made in Turkey from organic, natural Turkish cotton. These beautiful colors match any bathroom decor. The raised design adds to the plush surface of each washcloth towel set and enhances the soft texture. Pamper your skin with this set of luxurious cotton washcloths. The generous size of these Turkish cotton washcloths makes them ideal for use in the bath or shower, and the Turkish cotton construction provides a silky-soft feel. The washcloth set is machine-washable and bleach-friendly, helping you to keep each washcloth sparkling white.</div>
+<div style="text-align: center;"></div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong><span></span>Amadeus</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Washcloths</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong><span></span>12" x 12"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong><span>12</span>
+</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong><span> </span>640 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey<br>
+</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amadeus</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428516196419</id>
+      <title>White</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO16051</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428516196419</id>
+      <title>Gray</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO16052</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428516196419</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161203</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428516196419</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161204</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428516196419</id>
+      <title>Coffee</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161206</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4428496666691</id>
+    <published>2020-04-12T07:51:35-04:00</published>
+    <updated>2020-04-12T07:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-hand-towels-6-pieces"/>
+    <title>Amadeus Luxury Turkish Cotton Plush Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16049AmadeusHandTowelsSetof6White.jpg?v=1618407751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1 style="text-align: center;">The Amadeus Turkish Towel Collection features a unique and elegant dobby design that is sure to impress.</h1>
+<div style="text-align: center;">Luxurious full terry towels that are rated at 640 GSM, to ensure maximum absorbency, without sacrificing any of the styles. Genuine Turkish cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals to make the towels artificial. These Luxury Hand towels made in Turkey from organic, natural Turkish cotton. Our Bathroom towels are fast absorbent and quick dry. These Turkish cotton hand towels will get softer after each wash. This is a 6 PC cotton towel set that the entire family can enjoy! These plush hand towels will deliver dependable performance and a quality appearance throughout their lifespan. Machine washable and dry-able. The raised design adds to the plush surface of each hotel collection towel and enhances the soft texture.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Amadeus</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>16" x 27"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>640 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amadeus</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO16049</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161197</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161198</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Greenery</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161199</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Coffee</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161200</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161201</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Stone</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161202</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO16050</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4416155156547</id>
+    <published>2020-03-23T15:36:01-04:00</published>
+    <updated>2020-03-23T15:36:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-bath-towels-4-pieces"/>
+    <title>Amadeus Luxury Turkish Cotton Quick Drying Bath Towels - 4 Pieces</title>
+    <s:type>Bath Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ctt_AmadeusTowelCollection.jpg?v=1623630470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Towels<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">The Amadeus Turkish Towel Collection features a unique and elegant dobby design that is sure to impress. Luxurious full terry large towels that are rated at 640 GSM, to ensure maximum absorbency, without sacrificing any of the styles. Pamper your skin with this set of Turkish cotton towel sets. The generous size of these Turkish cotton washcloths makes them ideal for use in the bath or shower, and the Turkish Aegean cotton construction provides a silky-soft feel. The bathroom towel set is machine-washable and bleach-friendly, helping you to keep each washcloth sparkling white. Use on the beach or poolside as a vacation accessory, or treat yourself to spa-quality towels at home. 100% Genuine Turkish cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals to make the towels artificial. Made in Turkey from organic, natural Turkish cotton.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Amadeus </li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Bath Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>30" x 54"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>4</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>640 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amadeus</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>White</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO16047</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Stone</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161196</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Blue</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161195</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Coffee</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161194</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Greenery</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161193</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Gray</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO16048</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161192</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416155156547</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>PRO161191</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789914873899</id>
+    <published>2019-05-14T14:05:59-04:00</published>
+    <updated>2019-05-14T14:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-towel-set-of-6"/>
+    <title>Amadeus Luxury Turkish Cotton Premium Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Amadeus6pcTowelSetClassicTurkishTowels_1.jpg?v=1613244986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">These Turkish cotton bath towels will instantly add class and elegance to any room. This bathroom towel set includes 2 Oversized Bath Towels (30x54"), 2 Hand Towels (16x27"), and 2 Washcloth Towels (12x12"). Order these towel sets not just for the bathroom, but for multiple uses at pool sides, spas, and beaches. With a durable construction that's built to last, these decorative bath towels will deliver dependable performance and a quality appearance throughout their lifespan. Machine washable and dry-able. The raised design adds to the plush surface of each towel and enhances the soft texture. Diversify your towel collection with these luxury Turkish bath towels and impress your guests with the best! Available and in stock now!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Amadeus</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Towel Set</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 30" x 54", 16" x 27", 12" x 12"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 640 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey<br>
+</li>
+<li style="text-align: left;">
+<strong>THIS SET INCLUDES:</strong>2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amadeus</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Pearly White</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161142</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161137</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Serenity Blue</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161140</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Stone</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161141</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Irish Green</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161138</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Twilight Gray</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161135</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Mocha</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161139</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789914873899</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>PRO161136</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+  </entry>
+</feed>

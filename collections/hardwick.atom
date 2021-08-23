@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/hardwick.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2019-05-16T13:12:40-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1791193907243</id>
+    <published>2019-05-16T13:12:40-04:00</published>
+    <updated>2019-05-16T13:12:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hardwick-turkish-cotton-towel-set-of-6"/>
+    <title>Hardwick Jacquard Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_8599bdb5-ef86-4f1a-a8ae-cc5169623b7f.jpg?v=1613244990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Beautifully designed &amp; wonderfully constructed, our Hardwick Collection will stand out from the rest and wow your guests! Our process begins with our combed cotton, using 100% Turkish cotton. The result is a smooth &amp; strong yarn so that our towels will last longer &amp; feel softer. The yarn is then spun into a 2 ply zero twist yarn” resulting in a sturdier &amp; stronger material but also allowing for a more absorbent and faster drying towel! We then finish off these towels with our signature basket weave design.</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>
+<strong>STYLE: </strong>Hardwick</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S): </strong>27" x 54", 16" x 28", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardwick</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>White</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16448</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Ivory</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16442</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Banana</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16440</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Orange</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16444</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Pink</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16446</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16447</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791193907243</id>
+      <title>Gray</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>PRO16445</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1786117193771</id>
+    <published>2019-05-09T13:18:49-04:00</published>
+    <updated>2019-05-09T13:18:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hardwick-jacquard-turkish-cotton-bath-mat-2-pieces"/>
+    <title>Hardwick Jacquard Turkish Cotton Bath Mat - 2 Pieces</title>
+    <s:type>Bath Mat</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Hardwick2.jpg?v=1613244966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Mat<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Our Hardwick Bath Mats are one of our favorite sets! Using 100% Turkish combed cotton, our towels will feel soft and plush the instance your feet touch them. Made with a beautiful and elegant Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil and pamper yourself when you step on one of our luxurious bath mats! The Hardwick Bath Mat Set was designed for high end stores, but pay only a fraction of the price by purchasing direct from the manufacturer!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hardwick</li>
+<li>
+<strong>TYPE: </strong>Bath Mat</li>
+<li>
+<strong>SIZE(S):</strong> 20" x 30"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 2</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 900 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardwick</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16458</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Pink</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16455</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16452</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16451</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Ivory</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16453</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16457</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Orange</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16454</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Beige</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16450</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786117193771</id>
+      <title>Red Brick</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16456</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/shimmer.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2019-06-12T08:48:52-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1810840617003</id>
+    <published>2019-06-12T08:48:52-04:00</published>
+    <updated>2019-06-12T08:48:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/shimmer-complete-6-piece-set"/>
+    <title>Shimmer Brampton Luxury Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/IMG_1182copy.jpg?v=1624130537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Jacquard woven with a ribbed pattern designed into the fabric for fast drying and weightless set! Made with 100% Turkish cotton for a soft, fluffy, and luxurious feel! Combed cotton helps add a loft for a thick but light towel. We only use premium combed cotton fibers to produce a soft, thick, and weightless long-lasting towel! Great value for jacquard woven ribbed towels!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Shimmer</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 13" x 13", 20" x 32", 27" x 54"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shimmer</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>Alpine White</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161112</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161109</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>Gray</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161110</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>Pitch Black</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161439</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>SPA Blue</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161111</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1810840617003</id>
+      <title>Platinum</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO161456</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

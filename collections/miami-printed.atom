@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/miami-printed.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-13T06:17:00-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496257810499</id>
+    <published>2020-06-13T06:17:00-04:00</published>
+    <updated>2020-06-13T06:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/miami-printed-turkish-cotton-summer-beach-towel-1-piece"/>
+    <title>Miami Printed Turkish Cotton Summer Beach Towel</title>
+    <s:type>Beach Towel</s:type>
+    <s:vendor>Towels Beyond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Miami-PrintedBeachTowelSummer211PRO161211.jpg?v=1613245061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Towels Beyond<br>
+        <strong>Type: </strong>Beach Towel<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Get this deluxe limited time Miami Printed Beach Towel made of 100% Turkish Organic cotton. Each printed design is unique to it's own and can be used in spas, hotels, homes and more importantly on the beach! Show off your Turkish towel now at the beach and impress others by it by getting these towels now while they are in stock!</p>
+<ul>
+<li>
+<strong>STYLE: </strong>Miami Printed</li>
+<li>
+<strong>TYPE: </strong>Beach Towels<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>40" x 70"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>1</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>330 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Miami</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>211</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161211</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>212</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161212</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>213</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161213</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>214</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161214</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>215</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161215</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496257810499</id>
+      <title>216</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161216</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

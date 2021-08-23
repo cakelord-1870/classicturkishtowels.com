@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/villa.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2019-11-13T16:08:27-05:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1791200428075</id>
+    <published>2019-11-13T16:08:27-05:00</published>
+    <updated>2019-11-13T16:08:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/villa-turkish-cotton-washcloths-12-pieces"/>
+    <title>Villa Turkish Cotton Washcloths - 12 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/VillaBathTowelsc_1_-1.jpg?v=1613244991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Our 12 piece Turkish cotton washcloth set is perfect for plenty of uses around the house. It features an elegant striped dobby in various vivid colors to match any bathroom or personal preference. These are luxurious full terry cloths with premium combed cotton fibers to produce a soft, thick, and weightless long-lasting sheet. Turkish cotton fibres are longer than other cotton fibres, this unique quality allows the long fibres to soften and become more absorbent.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Villa</li>
+<li>
+<strong>TYPE: </strong>Washcloth</li>
+<li>
+<strong>SIZE(S):</strong> 13" x 13"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 12</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Villa</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Bright White</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161413</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Silver</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161415</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Champagne</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161418</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Taupe</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161414</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Deep Blue</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161421</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161416</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Blue Sky</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161422</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Midnight Gray</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161419</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Chocolate Bar</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161420</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791200428075</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PRO161417</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789217013803</id>
+    <published>2019-05-13T13:10:07-04:00</published>
+    <updated>2019-05-13T13:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/villa-turkish-cotton-hand-towels-6-pieces"/>
+    <title>Villa Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_e0ef99dc-aa7b-44d8-aa14-ae0397fdd166.jpg?v=1613244972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Made from 100% Natural &amp; Organic Turkish Cotton. This set is made with combed cotton hence adding to it's high-quality and durability. Our fluffy and vibrant appearance towels with long-lasting premium cotton fibers prevent shrinkage and fraying. Our smooth and extra soft towels make the color more natural. Our original and superior designs of sheets will make guests feel refresh with your bathroom draped with elegance and luxury.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Villa</li>
+<li>
+<strong>TYPE: </strong>Hand Towels</li>
+<li>
+<strong>SIZE(S):</strong> 16" x 30"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Villa</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Bright White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161403</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Taupe</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161404</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161405</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Champagne</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161408</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161406</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Blue Sky</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161412</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Deep Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161411</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Midnight Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161409</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Chocolate Bar</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161410</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161407</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1784292540459</id>
+    <published>2019-05-08T15:24:26-04:00</published>
+    <updated>2019-05-08T15:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/villa-turkish-cotton-bath-towels-4-pieces"/>
+    <title>Villa Turkish Cotton Bath Towels - 4 Pieces</title>
+    <s:type>Bath Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_30313091-4a08-4fec-8f9a-8d853649e8c1.jpg?v=1613244961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Towels<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Made from 100% Natural &amp; Organic Turkish Cotton. All of our towels are made with combed genuine cotton which is softer and more lustrous than ring spun or other types of cotton. Features an elegant striped dobby design inspired by luxury designers. Turkish cotton gets softer after every wash as naturally the fibres expand for maximum absorbency. Manufactured in Turkey!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Villa</li>
+<li>
+<strong>TYPE: </strong>Bath Towels</li>
+<li>
+<strong>SIZE(S):</strong> 27" x 54"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 4</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 680 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Villa</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Bright White</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161393</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Silver</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161395</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Champagne</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161398</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Taupe</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161394</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Deep Blue</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161401</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Blue Sky</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161402</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Midnight Gray</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161399</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Chocolate Bar</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161400</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161397</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1784292540459</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>PRO161396</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>

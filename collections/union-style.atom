@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/union-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-09-18T15:06:35-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4562329796675</id>
+    <published>2020-09-18T15:06:35-04:00</published>
+    <updated>2020-09-18T15:06:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/union-turkish-cotton-towel-set-of-12"/>
+    <title>Union Turkish Cotton Towel Set of 12</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_f03031e7-d750-4324-860f-5ebee833433d.jpg?v=1613245075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            73.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Try out our new Classic Turkish Cotton Union Collection! Available in 12 Pieces of Luxury Turkish Cotton in 3 new colors of Dark &amp; Light Variants! Need something as a gift for someone but not sure what to give them? Try out the all new Union Collection Towels Now! VAT Dyed for maximum color brightness and no fade when washed. Made from 100% Genuine Luxury Turkish Cotton and are available in stock now! Hurry before stock runs out! Made from heavyweight cotton for maximum softness and absorbency.</div>
+<div>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Union</span>
+</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong><span> 27x54, 16x27, 13x13</span>
+</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> 12</span>
+</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 68</span>0 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Union</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4562329796675</id>
+      <title>Blue/Light Blue</title>
+      <s:price currency="USD">73.99</s:price>
+      <s:sku>PRO16151</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4562329796675</id>
+      <title>Mauve/White</title>
+      <s:price currency="USD">73.99</s:price>
+      <s:sku>PRO16148</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4562329796675</id>
+      <title>Taupe/Beige</title>
+      <s:price currency="USD">73.99</s:price>
+      <s:sku>PRO16754</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

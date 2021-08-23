@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/becci.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2019-05-14T14:36:06-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789925818411</id>
+    <published>2019-05-14T14:36:06-04:00</published>
+    <updated>2019-05-14T14:36:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/becci-turkish-cotton-towel-set-of-6"/>
+    <title>Becci Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/BecciTowels6colors.jpg?v=1613244988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div style="text-align: center;">Made with 100% Turkish Cotton. No toxic chemicals were used to make this product, hence making it certifiably organic by the GOTS Standard. This towel set gets softer with each wash adding to the already soft towels! These towels feature a soft and thick material with a unique ribbed design part of the collection set!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong><span> </span>Becci</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Towel Set</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong><span> </span>27" x 55", 16" x 30", 12" x 12"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;">
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Becci</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>White</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO161146</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>Platinum</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO17103</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>Beige</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO161143</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>Sea Foam</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO161145</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>Navy</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO17104</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789925818411</id>
+      <title>Gray</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO161144</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

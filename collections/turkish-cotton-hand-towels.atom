@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/turkish-cotton-hand-towels.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-11-22T22:05:46-05:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4597610217539</id>
+    <published>2020-11-22T22:05:46-05:00</published>
+    <updated>2020-11-22T22:05:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-turkish-cotton-hand-towels-6-pieces-wholesale"/>
+    <title>Amadeus Turkish Cotton Hand Towels Set - 6 Pieces (Wholesale)</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16049_3.jpg?v=1613245084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            10.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">The Amadeus Turkish Towel Collection features a unique and elegant dobby design that is sure to impress. Luxurious full terry towels that are rated at 640 GSM, to ensure maximum absorbency, without sacrificing any of the styles. Genuine Turkish cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals to make the towels artificial. These Luxury Hand towels made in Turkey from organic, natural Turkish cotton. Our Bathroom towels are fast absorbent and quick dry. These Turkish cotton hand towels will get softer after each wash. This is a 6 PC cotton towel set that the entire family can enjoy! These plush hand towels will deliver dependable performance and a quality appearance throughout their lifespan. Machine washable and dry-able. The raised design adds to the plush surface of each hotel collection towel and enhances the soft texture.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Amadeus</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>16" x 27"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong>640 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>White</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO16049</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Stone</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161202</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Greenery</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161199</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Gray</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO16050</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Coffee</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161200</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161198</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161197</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4597610217539</id>
+      <title>Blue</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>PRO161201</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496241229891</id>
+    <published>2020-06-13T06:17:00-04:00</published>
+    <updated>2020-06-13T06:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/may-embroidered-turkish-cotton-hand-towels-2-pieces"/>
+    <title>May Embroidered Turkish Cotton Hand Towels - 2 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/mayht.png?v=1613245060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Add modern elegance to the décor of your bathroom with the May Embroidered Towels. This cozy soft towel features a stylish embroidered contemporary geometric design for flair. Each towel is made of cotton making for a plush addition to your bathroom. Get your bath towel today and impress your guests with the best Turkish towels on the market. Even better, gift someone them!</p>
+<ul>
+<li>
+<strong>STYLE: </strong>May Embroidered</li>
+<li>
+<strong>TYPE: </strong>Hand Towel</li>
+<li>
+<strong>SIZE(S):</strong> 16" x 28"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 2</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>May</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496241229891</id>
+      <title>White</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>PRO16544</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496241229891</id>
+      <title>Blue</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>PRO16543</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496241229891</id>
+      <title>Aqua</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>PRO16542</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4495456796739</id>
+    <published>2020-06-12T05:53:00-04:00</published>
+    <updated>2020-06-12T05:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/ivone-embroidered-turkish-cotton-hand-towels-4-pieces"/>
+    <title>Ivone Embroidered Turkish Cotton Hand Towels - 4 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_dffc36df-4d27-4dc3-b18a-479168a32709.png?v=1613245055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Add modern elegance to the décor of your bathroom with Ivone Embroidered Hand Towels. These cozy soft towels feature a stylish embroidered contemporary geometric design for flair. Each towel is made of cotton making for a plush addition to your bathroom. Features an embroidered geometric design for contemporary aesthetic appeal. Ivone Embroidered Hand Towels add a fresh look to your bathroom décor!</p>
+<ul>
+<li>
+<strong>STYLE: </strong>Ivone Embroidered</li>
+<li>
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>16" x 28"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>4</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ivone</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4495456796739</id>
+      <title>White</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>PRO16484</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4495456796739</id>
+      <title>Blue</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>PRO16483</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4495456796739</id>
+      <title>Aqua</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>PRO16482</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4493531938883</id>
+    <published>2020-06-10T09:35:04-04:00</published>
+    <updated>2020-06-10T09:35:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/cambridge-turkish-cotton-hand-towels-6-pieces"/>
+    <title>Cambridge Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_5a3d8535-855e-48d1-98bc-5eda74dc5936.jpg?v=1613245044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Our luxurious Classic Turkish Towels are made in Turkey using the latest technology in weaving, dyeing, cutting, sewing, embroidery, and packaging to provide you with the softest towels for you and your family. Our softer and more durable towels don’t use any bleach in the manufacturing process. This makes all the difference in the quality of your towels. You will feel the difference in softness immediately, and will find the perfect color to match your home decor. With our 100% genuine Turkish Cotton, you can expect your premium bathroom towels to get even softer over time.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong><span> Cambridge</span>
+</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong><span> </span>16" x 30"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cambridge</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>White</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16261</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Taupe</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16260</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Stone</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO161297</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Rose</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16259</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Purple</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16258</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Ivory</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16256</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Green</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16255</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16253</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Aqua</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16251</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Navy</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16249</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Blue</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16252</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493531938883</id>
+      <title>Gray</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16254</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4428607586371</id>
+    <published>2020-04-12T11:05:58-04:00</published>
+    <updated>2020-04-12T11:05:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/anichini-fairfield-turkish-cotton-hand-towels-4-pieces"/>
+    <title>Anichini Fairfield Turkish Cotton Hand Towels - 4 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Anichini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Fairfield_7.jpg?v=1613245013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anichini<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"><span>Introducing our new Fairfield terry hand towels set which are part of our hotel bath linen collection. Made from a 100% cotton Turkish terry which is exceedingly thick and absorbent. Sculpted in a variation of the classic "Check" hotel towel. Turkey has been renowned for weaving the finest terry towels for centuries and these are among the best of the best. Bathroom hand towels set are perfect for everyday use, at home, hotels, spa, gym, beach, poolside, theme water parks, etc. For best results, wash before use. It is washer dryer safe- edges won't fray or fall apart. High-quality hand towels are highly absorbent and will remain soft after multiple wash and dry cycles. These beautiful colors match any bathroom decor. The raised design adds to the plush surface of each hand towel and enhances the soft texture. Why does Turkey weave the finest terry? It truly is the best!</span></div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Fairfield </li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong>16" x 27"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:<span></span></strong>4</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anichini</s:tag>
+    <s:tag>Fairfield</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428607586371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16536</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4428587597891</id>
+    <published>2020-04-12T11:05:58-04:00</published>
+    <updated>2020-04-12T11:05:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/anichini-cambridge-hand-towels-6-pieces"/>
+    <title>Anichini Luxury Turkish Cotton Super Soft Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Anichini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/CambridgeWhite6HT.jpg?v=1618407754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anichini<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">Our Turkish Hand Towels Set is made in Turkey using the latest technology in weaving, dyeing, cutting, sewing, embroidery, and packaging to provide you with the softest bath towels for you and your family. Our softer and more durable hand towels do not use any bleach in the manufacturing process. This makes all the difference in the quality of your plush towels. You will feel the difference in softness immediately and will find the perfect color to match your home decor. With our 100% genuine Turkish cotton, you can expect your premium bathroom hand towels to get even softer over time. Never regret your choices again. The quality of our Hotel towels for the bathroom speaks for itself, our plush towels have been featured in luxury spas and hotels in cities around the world</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Cambridge</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>16" x 30"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Anichini</s:tag>
+    <s:tag>Cambridge</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428587597891</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17135</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4428496666691</id>
+    <published>2020-04-12T07:51:35-04:00</published>
+    <updated>2020-04-12T07:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/amadeus-hand-towels-6-pieces"/>
+    <title>Amadeus Luxury Turkish Cotton Plush Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16049AmadeusHandTowelsSetof6White.jpg?v=1618407751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1 style="text-align: center;">The Amadeus Turkish Towel Collection features a unique and elegant dobby design that is sure to impress.</h1>
+<div style="text-align: center;">Luxurious full terry towels that are rated at 640 GSM, to ensure maximum absorbency, without sacrificing any of the styles. Genuine Turkish cotton, to ensure maximum absorbency from every thread without adding unnecessary chemicals to make the towels artificial. These Luxury Hand towels made in Turkey from organic, natural Turkish cotton. Our Bathroom towels are fast absorbent and quick dry. These Turkish cotton hand towels will get softer after each wash. This is a 6 PC cotton towel set that the entire family can enjoy! These plush hand towels will deliver dependable performance and a quality appearance throughout their lifespan. Machine washable and dry-able. The raised design adds to the plush surface of each hotel collection towel and enhances the soft texture.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Amadeus</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels<br>
+</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>16" x 27"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>640 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amadeus</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO16049</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Brown Rice</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161197</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Canyon Clay</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161198</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Greenery</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161199</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Coffee</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161200</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161201</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Stone</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161202</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4428496666691</id>
+      <title>Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO16050</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4416260210755</id>
+    <published>2020-03-24T06:33:35-04:00</published>
+    <updated>2020-03-24T06:33:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-hand-towels-6-pieces"/>
+    <title>Brampton Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16171_BRAMPTON_HT_6PC_20X32_WHITE.jpg?v=1613245008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil and pamper yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by buying direct from manufacturer!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>20" x 32"</li>
+<li style="text-align: left;">
+<strong>﻿QUANTITY INCLUDED: </strong>﻿6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416260210755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>PRO16171</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789229498411</id>
+    <published>2019-05-13T13:47:25-04:00</published>
+    <updated>2019-05-13T13:47:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-hand-towels-4-pieces"/>
+    <title>Brampton Turkish Cotton Hand Towels - 4 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/BramptonHT.jpg?v=1613244976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">Pamper yourself with these ultra soft, and large combed cotton towels in heavy and extra plush fabric for added softness and comfort. Bright optical colors of these quality towel sets, beautifully designed and woven in a jacquard ribbed style will bring class and elegance to any room. Made with 100% Turkish Cotton for maximum absorbency and double stitched material to prevent fraying, adding durability.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towel</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 20" x 32"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 4</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16162</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16159</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Spa Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO161224</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16161</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16160</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17197</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Platinum</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17190</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789223272491</id>
+    <published>2019-05-13T13:34:23-04:00</published>
+    <updated>2019-05-13T13:34:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/antalya-turkish-cotton-hand-towels-4-pieces"/>
+    <title>Antalya Turkish Cotton Hand Towels - 4 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_7e4cf44c-5fc7-4d1c-a2b1-055d90204712.jpg?v=1613244974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">
+<span>Our Antalya collection was inspired by the beautiful resort city of Antalya, Turkey. Each towel features a shimmering dobby that’s as beautiful as the city itself. In addition to the metallic, lustrous dobby, our Antalya collection of Turkish Hand Towels features vibrant colors that will not fade after being washed. </span>Made with 100% Turkish Cotton. Thick absorbent pile that is soft to touch. The plush hand towel set offers a lighter weight, fluffy softness, and quick absorbency. These same quality hand towels are found in high-end spas and 5-star hotels around the world. All purchases are shipped from our own warehouses in the US. The bathroom hand towels set are machine washable for utmost convenience. They become even softer after the first wash.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Antalya</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 16" x 28"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 4</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<blockquote>
+<div style="text-align: left;"></div>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Antalya</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Snow White</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16094</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Malibu Peach</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16092</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Turquoise Blue</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16088</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Colonial Blue</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16090</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Pistachio Green</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16091</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Twilight Gray</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16093</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Taupe</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO161316</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO16089</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Rockridge Grey</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO17167</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789223272491</id>
+      <title>Navy</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>PRO161315</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789217013803</id>
+    <published>2019-05-13T13:10:07-04:00</published>
+    <updated>2019-05-13T13:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/villa-turkish-cotton-hand-towels-6-pieces"/>
+    <title>Villa Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_e0ef99dc-aa7b-44d8-aa14-ae0397fdd166.jpg?v=1613244972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Made from 100% Natural &amp; Organic Turkish Cotton. This set is made with combed cotton hence adding to it's high-quality and durability. Our fluffy and vibrant appearance towels with long-lasting premium cotton fibers prevent shrinkage and fraying. Our smooth and extra soft towels make the color more natural. Our original and superior designs of sheets will make guests feel refresh with your bathroom draped with elegance and luxury.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Villa</li>
+<li>
+<strong>TYPE: </strong>Hand Towels</li>
+<li>
+<strong>SIZE(S):</strong> 16" x 30"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Villa</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Bright White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161403</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Taupe</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161404</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161405</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Champagne</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161408</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161406</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Blue Sky</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161412</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Deep Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161411</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Midnight Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161409</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Chocolate Bar</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161410</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789217013803</id>
+      <title>Olive Green</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO161407</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1337038635051</id>
+    <published>2018-06-14T15:18:54-04:00</published>
+    <updated>2018-06-14T15:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-hand-towel-set"/>
+    <title>Hospitality Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ArsenalWhiteHT.png?v=1613244953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Our bath towels are 100% Turkish cotton, which can make you feel soft, fluffy, and luxurious. It makes a perfect bath-time companion. Whether it's for use against the sensitive skin of a baby, or for yourself to indulge in a luxury cloth, you will feel the difference! Our fluffy and soft towels will make you feel energetic through their quick-drying quality. We use premium combed cotton helps us to produce energy-efficient and lightweight sheets that help its natural fibers with the highest absorbency.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Hand Towel</li>
+<li>
+<strong>SIZE(S):</strong> 16" x 28"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module launchpad-company-logo" data-cel-widget="aplus-launchpad-company-logo" cel_widget_id="aplus-launchpad-company-logo">
+<div class="a-section a-text-center launchpad-module launchpad-module-company-logo" style="text-align: center;">
+<div></div>
+</div>
+</div>
+<div class="celwidget aplus-module module-12" data-cel-widget="aplus-module-12" cel_widget_id="aplus-module-12">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="360" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<div class="apm-sidemodule aplus-module-content"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038635051</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16125</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038635051</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17156</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

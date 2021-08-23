@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/kids-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-14T10:55:47-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496571564099</id>
+    <published>2020-06-14T10:55:47-04:00</published>
+    <updated>2020-06-14T10:55:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/soft-baby-turkish-cotton-bath-towels-2-pieces"/>
+    <title>Soft Baby Turkish Cotton Bath Towel</title>
+    <s:type>Bath Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_f0050eb2-e781-48ff-9cbe-1015f97a0552.jpg?v=1613245064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Towels<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Wrap your baby with these soft, absorbent, fluffy, warm towel; provides super absorbency, fast drying and comfort. Beautiful and vibrant soft colors to match any bathroom décor; excellent gift for new parents, birthdays, baby showers, and baby hampers. Made from natural materials and free from harmful chemicals, these baby towels make a safe, natural and healthy choice for your baby and kids. Hem stitch reinforced edges prevent unraveling; made with 100% ring-spun cotton makes the set lightweight and super-absorbent. </p>
+<ul>
+<li>
+<strong>STYLE: </strong>Soft Baby / Kids</li>
+<li>
+<strong>TYPE: </strong>Bath Towels<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>30" x 56"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>1</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>400 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kids</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>White</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO16759</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Turquoise</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161428</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Teal</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161430</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Steel</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161431</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Pink</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO16758</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Orange</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161427</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Gray</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161429</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO16757</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Ivory</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17001</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Oyster</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17004</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Lemon</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17003</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Breeze</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17000</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Coral</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO161440</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Denim Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17102</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496571564099</id>
+      <title>Jade</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17002</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496208199747</id>
+    <published>2020-06-13T05:52:31-04:00</published>
+    <updated>2020-06-13T05:52:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/kids-embroidered-turkish-cotton-towel-set-of-6"/>
+    <title>Kids Embroidered Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/840136017237_ALPHABET_6_PC_SET_Thick_extra_soft_50.jpg?v=1613245056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">These embroidered kids towels are high quality and will bring joy to any occasion. Each set contains 6 premium and absorbent towels with different embroidered designs. Rated at 550 GSM for ultimate absorbency. Clean your hands, faces, tables, and floors with ease. Made with premium materials for an ultra-plush feel that you have to touch to believe. These white Turkish Cotton fingertip towels feature three nautical designs. These towels are made from 100% Natural Turkish Cotton from Turkey!</p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Kid Towels</span>
+</li>
+<li>
+<strong>TYPE: </strong>Towel Set<br>
+</li>
+<li>
+<strong>SIZE(S):</strong><span> 27</span>" x 52", 16" x 26", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 55</span>0 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey<br>
+</li>
+<li>
+<strong>EACH SET CONTAINS: </strong>2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kids</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Alphabet (White &amp; Blue)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16508</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Alphabet (White &amp; Pink)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO161180</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Dinosaur (Green &amp; Blue)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO161182</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Duck Family (Yellow &amp; Ivory)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO161181</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Fairy (White &amp; Pink)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16173</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Fairy (White &amp; White)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16510</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Cute Bear (White &amp; Pink)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16509</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Fun Park (Pink &amp; Blue)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16511</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Fun Park (White &amp; Blue)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16512</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>My Little Car (White &amp; Red)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16515</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Our Car (White &amp; Blue)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16513</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496208199747</id>
+      <title>Rainbow &amp; Butterfly (Pink &amp; Yellow)</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16514</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/duchene.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-11T04:55:47-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4494819065923</id>
+    <published>2020-06-11T04:55:47-04:00</published>
+    <updated>2020-06-11T04:55:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/duchene-jacquard-turkish-cotton-bathrobe"/>
+    <title>Duchene Jacquard Turkish Cotton Bathrobe</title>
+    <s:type>Bathrobe</s:type>
+    <s:vendor>HGM Manor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/651046284765.jpg?v=1613245052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HGM Manor<br>
+        <strong>Type: </strong>Bathrobe<br>
+        <strong>Price: </strong>
+            61.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Our Duchene bathrobes are perfect for lounging all year long! Not too warm during the summer, but yet thick enough to wear during the winter months.It includes a double belt loop to adjust your waist size. Our bathrobes come in several sizes to accommodate both men and women of all forms. Features an elegant thick shawl collar design. Famously used in 5 star hotels and spas around the world. Get yours today! Limited Edition premium bathrobes available in limited stock, hurry and get your before stock runs out!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Duchene Jacquard</li>
+<li>
+<strong>TYPE: </strong>Bathrobe</li>
+<li>
+<strong>SIZE(S):</strong> Various</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> </span>1</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 60</span>0 GSM<br>
+</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duchene</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>White / XS/Small</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16478</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>White / Medium/Large</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16470</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>White / XL/1X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16474</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>White / 2X/3X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16466</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Lavender / XS/Small</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16477</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Lavender / Medium/Large</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16469</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Lavender / XL/1X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16473</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Lavender / 2X/3X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16465</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Ivory / XS/Small</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16476</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Ivory / Medium/Large</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16468</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Ivory / XL/1X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16472</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Ivory / 2X/3X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16464</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Charcoal / XS/Small</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16475</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Charcoal / Medium/Large</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16467</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Charcoal / XL/1X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16471</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4494819065923</id>
+      <title>Charcoal / 2X/3X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>PRO16463</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789909794859</id>
+    <published>2019-05-14T13:52:16-04:00</published>
+    <updated>2019-05-14T13:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/duchene-turkish-cotton-towel-set-of-6"/>
+    <title>Duchene Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ctt_Duchene6pcJacquardtowelsetsstoneandseafoam.jpg?v=1613244985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Our Duchene collection is inspired by the flora and fauna of Turkey's breathtaking landscapes. Each towel features a uniquely sculpted floral pattern designed for aesthetic and beauty. In addition to the decorative pattern, our Duchene collection is perfect for daily use. The design adds to the aesthetics of your home decor as well. Produced exclusively at our mills in Denizli, Turkey!</p>
+<ul>
+<li>
+<b>STYLE: </b>Duchene</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S): </strong>30" x 54", 16" x 26", 12" x 12"<br>
+</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>6</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duchene</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>White Lily</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16462</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>Ivory</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16460</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>Stone</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO161375</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>Sea Grass</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO161374</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>Lavender Fields</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16461</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789909794859</id>
+      <title>Gray</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO16459</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

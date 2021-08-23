@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/concierge-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-15T06:09:20-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496835969091</id>
+    <published>2020-06-15T06:09:20-04:00</published>
+    <updated>2020-06-15T06:09:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/concierge-turkish-cotton-towel-set-of-6"/>
+    <title>Madison Luxury Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/651725HSNPO311818.jpg?v=1613245070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">100% extra-long-staple cotton, highly absorbent. It is all about the fiber: only longer, stronger staple cotton fibers can be used in constructing low-twist yarns. The de-twisting action creates more air and space between the fibers, which yields a terrycloth fabric that is especially soft and spongy. This feature also decreases the time it takes the towel to dry after use or washing. </p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Concierge</span>
+</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong><span> 30" x 54", 16" x 26", 12" x 12"</span>
+</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey<br>
+</li>
+<li>
+<strong>THIS SET INCLUDES: </strong>2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Concierge</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17106</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Taupe</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17107</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Sage</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17108</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17109</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17110</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Mauve</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17111</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496835969091</id>
+      <title>Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17112</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

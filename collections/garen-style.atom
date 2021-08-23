@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/garen-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-15T06:09:20-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496829710403</id>
+    <published>2020-06-15T06:09:20-04:00</published>
+    <updated>2020-06-15T06:09:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/caren-garen-turkish-cotton-bundle-towel-set-of-6"/>
+    <title>Caren &amp; Garen Turkish Cotton Bundle Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Royal Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO17093_GAREN_CAREL_50.jpg?v=1613245069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This 6 piece set includes two washcloths, two hand towels, and two bath sheets from our premium Carel and Garen collections. Each towel is crafted in our mill located in Denizli, Turkey, the Turkish textile capital of the world. All materials are made with no chemical processing or pesticides. All our products have passed Oeko-Tex and ISO 9001 Certification. The Carel collection features a beautiful ribbed design that is inspired by the rolling waves of Turkey's luxurious beaches. The Garen collection features a beautifully designed dobby that will catch the eye of friends, guests, and family. The dobby features a ruffled architecture paired with subtle stripes that provide a soft, premium texture. </div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong><span> Carel &amp; Garen</span>
+</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Towel Set</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong><span> 30" x 54", 16" x 28", 13" x 13"</span>
+</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey<br>
+</li>
+<li style="text-align: left;">
+<strong>THIS SET INCLUDES: </strong>2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carel</s:tag>
+    <s:tag>Garen</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496829710403</id>
+      <title>Silver/Stone</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO17093</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496829710403</id>
+      <title>Sea Foam/Sky Blue</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO17092</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496829710403</id>
+      <title>Grey/Grey</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>PRO17091</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789244145707</id>
+    <published>2020-02-06T06:36:47-05:00</published>
+    <updated>2020-02-06T06:36:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/garen-3-piece-set"/>
+    <title>Garen Turkish Cotton Towel Set of 3</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/garen-gray-dobby-towel-set_720x_57ac4de7-cd97-4e0e-9802-f8a80cf2e4d8.jpg?v=1613244979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p style="text-align: center;">This towel set features premium combed cotton fibres to produce a soft, thick and weightless long lasting towel. High Quality construction and manufacturing, making this towel set not only beautifully elegant, but long lasting and durable. Mix and Match any color set for a beautiful combination display. Stunning Design &amp; Colors to freshen up your bathroom decor. Made with soft &amp; absorbent natural Turkish Cotton.</p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> </span>Garen</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong><span> </span>30" x 54", 16" x 28", 13" x 13"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> </span>3</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> </span>600 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿1 Bath Towels, 1 Hand Towel &amp; 1 Washcloth</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garen</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789244145707</id>
+      <title>Gray Dobby</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17019</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789244145707</id>
+      <title>Seafoam Dobby</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17021</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789244145707</id>
+      <title>Stone Dobby</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17020</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+</feed>

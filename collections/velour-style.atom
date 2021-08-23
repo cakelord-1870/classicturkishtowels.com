@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/velour-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2018-02-15T16:53:02-05:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/597626290219</id>
+    <published>2018-02-15T16:53:02-05:00</published>
+    <updated>2018-02-15T16:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/velour-shawl-collar-turkish-cotton-bathrobe"/>
+    <title>Velour Shawl Collar Turkish Cotton Bathrobe</title>
+    <s:type>Bathrobe</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/royal-grand-velour-bathrobe-bathrobe-2.jpg?v=1613244946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bathrobe<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">These premium 100% Turkish cotton his and hers robes are made from only natural materials, free from any harmful chemical for breathability and strength; Turkish cotton naturally provides its beautiful luster, and plush texture to our robes! Created with looped combed cotton, these robes stand against shedding after washing and are double stitched to ensure durability. The ultra-absorbent and quick drying unisex bathrobes are rated at 400 GSM to keep you warm especially for relaxation.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Velour</li>
+<li>
+<strong>TYPE: </strong>Bathrobe</li>
+<li>
+<strong>SIZE(S):</strong> One Size Fits All (OSFA)</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 1</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 400 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Velour</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/597626290219</id>
+      <title>White</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>PRO16690</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/597626290219</id>
+      <title>Gray</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>PRO16689</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

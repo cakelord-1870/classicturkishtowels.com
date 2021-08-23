@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/emile-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2018-03-29T16:29:17-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1138975834155</id>
+    <published>2018-03-29T16:29:17-04:00</published>
+    <updated>2018-03-29T16:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/emile"/>
+    <title>Emile Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/emile-towel-set-2.jpg?v=1613244949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">We only use premium combed cotton fibres to produce a soft, thick and weightless long lasting luxury towel! Great value for a luxurious jacquard woven textured 6-Piece soft linen cotton towel set. Made from natural 100% Cotton. Geometric jacquard woven designed into fabric. This set is complete with matching hand towels, washcloths and bath towels with colors to refresh, decorate, and update your bathroom for guests, family, and pretty much everyone else!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Emile</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 30" x 54", 16" x 30", 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Emile</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1138975834155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>PRO16174</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

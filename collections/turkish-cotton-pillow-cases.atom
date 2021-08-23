@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/turkish-cotton-pillow-cases.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-17T06:16:37-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4498477514819</id>
+    <published>2020-06-17T06:16:37-04:00</published>
+    <updated>2020-06-17T06:16:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/classic-turkish-cotton-pillow-cases"/>
+    <title>Classic Turkish Cotton Pillow Cases</title>
+    <s:type>Pillow Case</s:type>
+    <s:vendor>Towels Beyond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Picture1.jpg?v=1613245073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Towels Beyond<br>
+        <strong>Type: </strong>Pillow Case<br>
+        <strong>Price: </strong>
+            28.99 - 32.99
+            <a href="https://classicturkishtowels.com/products/classic-turkish-cotton-pillow-cases">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Get these pillow cases made from Premium organic Turkish cotton from our mills in Turkey. Match your unique Turkish towel set with these pillow cases and impress your guests and others with it! These can make great gifts too!</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Body Set of 2 = 20" x 55" / pc</div>
+<div style="text-align: center;">King Set of 4 = 20" x 40" / pc</div>
+<div style="text-align: center;">Queen Set of 4 = 20" x 36" / pc</div>
+<div style="text-align: center;">Standard Set of 4 = 20" x 30" / pc</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Classic</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498477514819</id>
+      <title>Body 2 Piece</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>PRO16619</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498477514819</id>
+      <title>King 4 Piece</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO16621</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498477514819</id>
+      <title>Queen 4 Piece</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>PRO16623</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498477514819</id>
+      <title>Standard 4 Piece</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>PRO16625</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

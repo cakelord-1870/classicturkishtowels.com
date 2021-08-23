@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/hospitality-style-turkish-towels.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-09-29T06:11:39-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4569899335747</id>
+    <published>2020-09-29T06:11:39-04:00</published>
+    <updated>2020-09-29T06:11:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-turkish-cotton-towel-set-of-9"/>
+    <title>Hospitality Turkish Cotton Towel Set of 9</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/IMG_5092.jpg?v=1613245076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><span>Wrap yourself in plush comfort with this soft quick-dry towel set, which is crafted from 100% cotton for superior moisture absorption. This Turkish cotton towel set comes with eight pieces, so you can stock your linen cabinet with a single order. </span>To weave this towels thousands of fine untwisted loops we use an advanced technique that makes it many times more absorbent than traditional cotton terry—and superbly soft too. Made in Turkey. Now get a free bathmat as well!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 12" x 12", 16" x 28", 24" x 48", 30" x 60" + Bathmat</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 8</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550-580 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>THIS SET INCLUDES: </strong>2 Bath Sheets, 2 Bath Towels, 2 Hand Towels, 2 Washcloths &amp; 1 Bathmat</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>White</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16120</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Aqua</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16110</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Beige</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16111</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Blue</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16108</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16119</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Ivory</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16114</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Rose</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16118</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Gray</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16109</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4569899335747</id>
+      <title>Black</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>PRO16122</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4493603668035</id>
+    <published>2020-06-10T11:56:26-04:00</published>
+    <updated>2020-06-10T11:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-turkish-cotton-towel-set-of-10"/>
+    <title>Hospitality Turkish Cotton Bath Towel Set of 10</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Salbakos-Arsenal-Turkish-Cotton-Quick-dry-8-piece-Towel-Set-with-Bath-Sheet-Towels.jpg?v=1613245049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Wrap yourself in plush comfort with this soft quick-dry towel set, which is 100-percent Turkish cotton for superior moisture absorption. This bathroom towel set comes with eight pieces so that you can stock your linen cabinet with a single order. Nothing soothes the soul and rejuvenates the spirit like a haven of luxury in one’s own home. You have durably made with highly absorbent, natural friendly 100%Turkish cotton with double stitched hem for long-lasting use. The more beautiful things in life like cheese, wine, a nice bottle of scotch- the Turkish cotton towel gets better and better with age which will be excellent for the guests at home, spa, gym or hotels. The weight of our sheets is an accurate indication of their strength and drying performance. The high-density design provides you quick moisture absorbency and fast-drying after each use.</p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Hospitality</span>
+</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong><span> 12" x 12", 16" x 28", 24" x 48", 30" x 60", 20" x 34"</span>
+</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> 10</span>
+</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 580</span> GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li>
+<strong>﻿THIS SET INCLUDES: </strong>﻿2 Bath Sheets, 2 Bath Towels, 2 Hand Towels, 2 Washcloths &amp; 2 Bath Mats</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493603668035</id>
+      <title>White</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>PRO161119</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4493603668035</id>
+      <title>Blue</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>PRO17125</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1846594338859</id>
+    <published>2019-08-05T10:47:50-04:00</published>
+    <updated>2019-08-05T10:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-collection-quick-dry-bath-towels-3-piece-hotel-and-spa-bath-sheet-set"/>
+    <title>Hospitality Turkish Cotton Bath Sheet - 3 Pieces</title>
+    <s:type>Bath Sheet</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Arsenal_30x60_3_pc_set_white_1.jpg?v=1613245000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Sheet<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">Great value sets! This is a 3 piece set, with each towel measuring 30x60". Durable and heavy-duty! Long-lasting premium cotton fibers with double stitching at the hem to prevent shrinkage and fraying. 100% Turkish cotton for a soft, fluffy, and luxurious feel! Combed cotton helps add a loft for a thick but weightless towel! Energy-efficient lightweight towels make it easy for fast drying! Easy care and machine washable. These Turkish large bath sheets towels are thick enough to be absorbent, thin enough to dry quickly, and long enough to keep you covered, making them a perfect choice for everyday use. The crisp bathing sheets add to the rich look of the home and bathroom decor. These cotton bath sheet sets are huge in size makes them a versatile option for spa and beach days.<br></p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Bath Sheet</li>
+<li>
+<strong>SIZE(S):</strong> 30" x 60"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 3</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1846594338859</id>
+      <title>White</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16128</s:sku>
+      <s:grams>1996</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1846594338859</id>
+      <title>Ivory</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO16123</s:sku>
+      <s:grams>1996</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1846594338859</id>
+      <title>Gray</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>PRO17158</s:sku>
+      <s:grams>1996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1447146881067</id>
+    <published>2018-08-20T14:13:43-04:00</published>
+    <updated>2018-08-20T14:13:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-collection-8-piece-set"/>
+    <title>Hospitality Turkish Cotton Towel Set of 8</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Arsenal8pcsetimage1a.jpg?v=1613244959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><span>Wrap yourself in plush comfort with this soft quick-dry towel set, which is crafted from 100% cotton for superior moisture absorption. This Turkish cotton towel set comes in eight pieces, so you can stock your linen cabinet with a single order. </span>To weave these towels thousands of fine untwisted loops we use an advanced technology that makes it many times more absorbent than traditional cotton terry—and superbly soft too. Made in Turkey.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong> 12" x 12", 16" x 28", 24" x 48", 30" x 60"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 8</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550-580 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li>
+<strong>THIS SET INCLUDES: </strong>2 Bath Sheets, 2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>White</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2012</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Aqua</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2003</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Beige</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2004</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Blue</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2001</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Brown</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2005</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Sage Green</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2011</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Green</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2006</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Ivory</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2007</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Orange</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2009</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Pink</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2010</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Plum</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2013</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Matt Rose</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2008</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Light Grey</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2014</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1447146881067</id>
+      <title>Gray</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>PRO2002</s:sku>
+      <s:grams>2948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1337036242987</id>
+    <published>2018-06-14T15:30:03-04:00</published>
+    <updated>2018-06-14T15:30:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-turkish-cotton-bath-sheet-2-pieces"/>
+    <title>Hospitality Turkish Cotton Bath Sheet - 2 Pieces</title>
+    <s:type>Bath Sheet</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Arsenal_70x35_bath_sheet_towels_white_3.jpg?v=1613244952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Sheet<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;">A home/dorm room essential! Basic sold towels in white and grey are great for various uses including the gym, spa, or travel. Available in several sizes for any use! Made with 100% Turkish cotton for a soft, fluffy, and luxurious feel! Combed cotton helps add loft for a thick but weightless towel. Energy efficient lightweight towels make it easy for fast drying. Easy care and machine washable and notable features. Long lasting premium cotton fibres with double stitching material making it durable!</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Bath Sheet</li>
+<li>
+<strong>SIZE(S):</strong> 35" x 70"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 2</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module 3p-module-b" cel_widget_id="aplus-3p-module-b" data-cel-widget="aplus-3p-module-b">
+<div class="aplus-3p-fixed-width"></div>
+</div>
+<div class="celwidget aplus-module module-3" cel_widget_id="aplus-module-3" data-cel-widget="aplus-module-3">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content"></div>
+</div>
+</div>
+<div class="celwidget aplus-module module-2" cel_widget_id="aplus-module-2" data-cel-widget="aplus-module-2">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-floatnone">
+<div class="apm-sidemodule apm-spacing">
+<div class="apm-sidemodule-imageleft"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="celwidget aplus-module module-3" cel_widget_id="aplus-module-3" data-cel-widget="aplus-module-3">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="700" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-floatnone">
+<div class="apm-sidemodule apm-spacing">
+<div class="apm-sidemodule-imageright"></div>
+<div class="apm-sidemodule-textleft"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337036242987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>PRO16129</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1337038503979</id>
+    <published>2018-06-14T15:18:55-04:00</published>
+    <updated>2018-06-14T15:18:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-bath-towel-set"/>
+    <title>Hospitality Turkish Cotton Bath Towels - 4 Pieces</title>
+    <s:type>Bath Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/hospitality-collection-bath-towel-set-bath-towels.jpg?v=1613244952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Towels<br>
+        <strong>Price: </strong>
+            25.99 - 44.99
+            <a href="https://classicturkishtowels.com/products/hospitality-bath-towel-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span>Our premium quality sheets are of 100% Turkish cotton and manufactured close to the source. We only use premium combed cotton fibers to produce a soft, thick, and weightless long-lasting towel. We focus on providing excellent value to luxury towels which includes part of our top of the line hotel and spa collection set. </span></div>
+<div style="text-align: center;"><meta charset="utf-8"></div>
+<div style="text-align: center;"><span>Our bath towels are 100% Turkish cotton, which can make you feel soft, fluffy, and luxurious. It makes a perfect bath time companion.</span></div>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Bath Towel</li>
+<li>
+<strong>SIZE(S):</strong> 27" x 54" / 24" x 48"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 4</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module 3p-module-b" cel_widget_id="aplus-3p-module-b" data-cel-widget="aplus-3p-module-b">
+<div class="aplus-3p-fixed-width">
+<h3 class="a-spacing-mini"></h3>
+</div>
+</div>
+<div class="celwidget aplus-module module-12" cel_widget_id="aplus-module-12" data-cel-widget="aplus-module-12">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="360" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<div class="apm-sidemodule aplus-module-content"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038503979</id>
+      <title>27x54 / White</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>PRO16127</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038503979</id>
+      <title>24x48 / White</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>PRO16126</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038503979</id>
+      <title>24x48 / Gray</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>PRO17157</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1337038995499</id>
+    <published>2018-06-14T15:18:54-04:00</published>
+    <updated>2018-06-14T15:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-washcloth-set"/>
+    <title>Hospitality Turkish Cotton Washcloths - 12 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/arsenalwcwhite12pc.png?v=1613244953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: center;"><span>Our 12 piece Turkish cotton washcloth set is perfect for plenty of uses around the house. It features an elegant striped dobby in various vivid colors to match any bathroom or personal preference. These are luxurious full terry cloths with premium combed cotton fibers to produce a soft, thick, and weightless long-lasting sheet. </span>Our fluffy and vibrant appearance towels with long-lasting premium cotton fibers prevent shrinkage and fraying. Our smooth and extra soft towels make the color more natural. </p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Washcloths</li>
+<li>
+<strong>SIZE(S):</strong> 12" x 12"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 12</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module 3p-module-b" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-3p-fixed-width"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038995499</id>
+      <title>White</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO16124</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038995499</id>
+      <title>Gray</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO17206</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1337038635051</id>
+    <published>2018-06-14T15:18:54-04:00</published>
+    <updated>2018-06-14T15:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/hospitality-hand-towel-set"/>
+    <title>Hospitality Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ArsenalWhiteHT.png?v=1613244953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Our bath towels are 100% Turkish cotton, which can make you feel soft, fluffy, and luxurious. It makes a perfect bath-time companion. Whether it's for use against the sensitive skin of a baby, or for yourself to indulge in a luxury cloth, you will feel the difference! Our fluffy and soft towels will make you feel energetic through their quick-drying quality. We use premium combed cotton helps us to produce energy-efficient and lightweight sheets that help its natural fibers with the highest absorbency.</p>
+<ul>
+<li>
+<strong>STYLE:</strong> Hospitality</li>
+<li>
+<strong>TYPE: </strong>Hand Towel</li>
+<li>
+<strong>SIZE(S):</strong> 16" x 28"</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong> 550 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank">WHOLESALE AVAILABLE!</a></strong></li>
+</ul>
+<div class="celwidget aplus-module launchpad-company-logo" data-cel-widget="aplus-launchpad-company-logo" cel_widget_id="aplus-launchpad-company-logo">
+<div class="a-section a-text-center launchpad-module launchpad-module-company-logo" style="text-align: center;">
+<div></div>
+</div>
+</div>
+<div class="celwidget aplus-module module-12" data-cel-widget="aplus-module-12" cel_widget_id="aplus-module-12">
+<div aria-live="polite" data-a-expander-name="aplus-module-expander" data-a-expander-collapsed-height="360" class="a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container">
+<div aria-expanded="false" class="a-expander-content a-expander-partial-collapse-content">
+<div class="aplus-module-wrapper apm-spacing apm-floatnone">
+<div class="apm-sidemodule aplus-module-content"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038635051</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16125</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1337038635051</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17156</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

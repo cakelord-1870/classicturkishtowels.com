@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/brampton.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-03-24T06:33:35-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4416260210755</id>
+    <published>2020-03-24T06:33:35-04:00</published>
+    <updated>2020-03-24T06:33:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-hand-towels-6-pieces"/>
+    <title>Brampton Turkish Cotton Hand Towels - 6 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/PRO16171_BRAMPTON_HT_6PC_20X32_WHITE.jpg?v=1613245008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil and pamper yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by buying direct from manufacturer!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towels</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>20" x 32"</li>
+<li style="text-align: left;">
+<strong>﻿QUANTITY INCLUDED: </strong>﻿6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416260210755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>PRO16171</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4416256933955</id>
+    <published>2020-03-24T06:33:35-04:00</published>
+    <updated>2020-03-24T06:33:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-bath-towels-2-pieces"/>
+    <title>Brampton Turkish Cotton Bath Towels - 2 Pieces</title>
+    <s:type>Bath Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_eaca1aa9-13b0-48c5-9957-3e9e81938e61.jpg?v=1613245007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Towels<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Brampton is a deluxe range of sumptuous 600 GSM pure cotton white towels with a chunky rib design for the unrivaled 'wow' factor. Indulge your guests with the extravagant weight and quality of our Brampton toweling range. Made in Turkey using premium Turkish yarns. Brampton towels are available in coordinating towels available in various listing on our website. Don't be shy to try out them all for your home collection!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE: </strong>Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Bath Towels</li>
+<li style="text-align: left;">
+<strong>SIZE(S): </strong>27" x 54"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED: </strong>2</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS: </strong>600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>White</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17094</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Gray</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17096</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Spa Blue</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17097</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17160</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17161</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Blue</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17199</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4416256933955</id>
+      <title>Platinum</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>PRO17198</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1791241748523</id>
+    <published>2019-05-16T15:20:34-04:00</published>
+    <updated>2019-05-16T15:20:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-washcloths-6-pieces"/>
+    <title>Brampton Turkish Cotton Washcloths - 6 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Bramptonallcolors2020_2.jpg?v=1613244996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day and any room. Spoil yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by purchasing direct from the manufacturer!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Washcloths</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 13" x 13"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 6</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>White</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO16166</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Spa Blue</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO161225</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO16163</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Gray</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO16165</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO16164</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Platinum</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO17200</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1791241748523</id>
+      <title>Blue</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>PRO17201</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1789229498411</id>
+    <published>2019-05-13T13:47:25-04:00</published>
+    <updated>2019-05-13T13:47:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-hand-towels-4-pieces"/>
+    <title>Brampton Turkish Cotton Hand Towels - 4 Pieces</title>
+    <s:type>Hand Towels</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/BramptonHT.jpg?v=1613244976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Hand Towels<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;">Pamper yourself with these ultra soft, and large combed cotton towels in heavy and extra plush fabric for added softness and comfort. Bright optical colors of these quality towel sets, beautifully designed and woven in a jacquard ribbed style will bring class and elegance to any room. Made with 100% Turkish Cotton for maximum absorbency and double stitched material to prevent fraying, adding durability.</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Hand Towel</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 20" x 32"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 4</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li style="text-align: left;">
+<strong>﻿MADE IN: </strong>﻿Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16162</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16159</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Spa Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO161224</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16161</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO16160</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17197</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1789229498411</id>
+      <title>Platinum</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>PRO17190</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://classicturkishtowels.com/products/1786126008363</id>
+    <published>2019-05-09T13:52:28-04:00</published>
+    <updated>2019-05-09T13:52:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/brampton-turkish-cotton-bath-sheet-3-pieces"/>
+    <title>Brampton Turkish Cotton Bath Sheets - 3 Pieces</title>
+    <s:type>Bath Sheet</s:type>
+    <s:vendor>Classic Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/Bramptonallcolors2020_3.jpg?v=1613244969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Classic Turkish Towels<br>
+        <strong>Type: </strong>Bath Sheet<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Our Brampton Collection is one of our most luxurious towels yet. Using 100% Turkish combed cotton, our towels will feel soft and plush the instance you touch them. Made with a beautiful and elegant ribbed Jacquard design, our towels will be sure to impress. Our bright optical colors will brighten up your day. Spoil and pamper yourself when you wrap yourself around one of our luxurious bath towels. The Brampton Collection is made for royalty but pay only a fraction of the price by purchasing direct from the manufacturer!</div>
+<ul style="text-align: center;">
+<li style="text-align: left;">
+<strong>STYLE:</strong> Brampton</li>
+<li style="text-align: left;">
+<strong>TYPE: </strong>Bath Sheet</li>
+<li style="text-align: left;">
+<strong>SIZE(S):</strong> 40" x 65"</li>
+<li style="text-align: left;">
+<strong>QUANTITY INCLUDED:</strong> 3</li>
+<li style="text-align: left;">
+<strong>FABRIC THICKNESS:</strong> 600 GSM</li>
+<li style="text-align: left;">
+<strong>MADE IN: </strong>Turkey</li>
+<li style="text-align: left;"><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brampton</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO16170</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Spa Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO161223</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Almond Beige</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO16167</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Gray</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO16169</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO16168</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Blue</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17189</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/1786126008363</id>
+      <title>Platinum</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>PRO17188</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/lucia-minelli-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-13T06:17:00-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4496220356675</id>
+    <published>2020-06-13T06:17:00-04:00</published>
+    <updated>2020-06-13T06:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/lucia-minelli-turkish-cotton-washcloths-12-pieces"/>
+    <title>Lucia Minelli Turkish Cotton Washcloths - 12 Pieces</title>
+    <s:type>Washcloths</s:type>
+    <s:vendor>Lucia Minelli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/ArsHand.jpg?v=1613245059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucia Minelli<br>
+        <strong>Type: </strong>Washcloths<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Pamper your skin with this set of luxurious cotton washcloths. The generous size of these cotton washcloths makes them ideal for use in the bath or shower, and the Turkish Aegean cotton construction provides a silky soft feel. The set is machine-washable and bleach-friendly, helping you to keep each washcloth sparkling white. Get yours today while stock lasts!</p>
+<ul>
+<li>
+<strong>STYLE: </strong>Lucia Minelli</li>
+<li>
+<strong>TYPE: </strong>Washcloths<br>
+</li>
+<li>
+<strong>SIZE(S): </strong>13" x 13"</li>
+<li>
+<strong>QUANTITY INCLUDED: </strong>12</li>
+<li>
+<strong>FABRIC THICKNESS: </strong>550 GSM</li>
+<li>
+<strong>MADE IN: </strong>Turkey</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lucia Minelli</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4496220356675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>PRO16535</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+</feed>

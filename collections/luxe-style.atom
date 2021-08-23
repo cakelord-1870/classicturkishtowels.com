@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://classicturkishtowels.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://classicturkishtowels.com/collections/luxe-style.atom"/>
+  <title>Classic Turkish Towels</title>
+  <updated>2020-06-17T06:16:37-04:00</updated>
+  <author>
+    <name>Classic Turkish Towels</name>
+  </author>
+  <entry>
+    <id>https://classicturkishtowels.com/products/4498484199491</id>
+    <published>2020-06-17T06:16:37-04:00</published>
+    <updated>2020-06-17T06:16:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://classicturkishtowels.com/products/luxe-ultimate-dense-turkish-cotton-towel-set-of-6"/>
+    <title>Luxe Ultimate Dense Turkish Cotton Towel Set of 6</title>
+    <s:type>Towel Set</s:type>
+    <s:vendor>Royal Turkish Towels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2659/8500/products/custom_resized_c8a68211-cc44-4bb6-be77-abca17e4bd49.jpg?v=1613245073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Turkish Towels<br>
+        <strong>Type: </strong>Towel Set<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Towels that actually work! We offer the highest and most cotton dense towel available for a super soft and ultra absorbent towel! Features a classic and versatile design. Great for several different uses!  Made with fine double stitched hemming. Durable and heavy duty! Made with superior combed cotton and low twist yarn for a super soft luxury plush towel! Complete towel set includes 2 oversized bath towels (30x54"), 2 hand towels (16x27"), and 2 washcloths (12x12") for an incredible value!</p>
+<ul>
+<li>
+<strong>STYLE:</strong><span> Luxe Ultimate Dense</span>
+</li>
+<li>
+<strong>TYPE: </strong>Towel Set</li>
+<li>
+<strong>SIZE(S):</strong><span> 30" x 54", 16" x 27", 12" x 12"</span>
+</li>
+<li>
+<strong>QUANTITY INCLUDED:</strong><span> </span>6</li>
+<li>
+<strong>FABRIC THICKNESS:</strong><span> 1,00</span>0 GSM</li>
+<li>
+<strong>﻿MADE IN: </strong>﻿Turkey<br>
+</li>
+<li>
+<strong>THIS SET INCLUDES: </strong>2 Bath Towels, 2 Hand Towels &amp; 2 Washcloths</li>
+<li><strong><a href="https://classicturkishtowels.com/collections/wholesale" target="_blank" rel="noopener noreferrer">WHOLESALE AVAILABLE!</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Luxe</s:tag>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498484199491</id>
+      <title>White</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>PRO17204</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://classicturkishtowels.com/products/4498484199491</id>
+      <title>Gray</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>PRO17205</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+</feed>
